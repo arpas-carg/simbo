@@ -4,7 +4,7 @@ defmodule Simbo do
   """
 
   @doc """
-  Hello world.
+  Autore della libreria.
 
   ## Examples
 
