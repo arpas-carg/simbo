@@ -2,7 +2,7 @@ defmodule SimboTest do
   use ExUnit.Case
   doctest Simbo
 
-  test "greets the world" do
-    assert Simbo.hello() == :world
+  test "Autore" do
+    assert Simbo.author() == "Andrea Lai"
   end
 end

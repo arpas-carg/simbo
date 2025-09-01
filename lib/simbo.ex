@@ -8,11 +8,11 @@ defmodule Simbo do
 
   ## Examples
 
-      iex> Simbo.hello()
-      :world
+      iex> Simbo.author()
+      "Andrea Lai"
 
   """
-  def hello do
-    :world
+  def author do
+    "Andrea Lai"
   end
 end
